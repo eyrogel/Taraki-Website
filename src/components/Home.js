@@ -25,110 +25,110 @@ function Home() {
         </section>
         <div class="relative flex flex-col justify-center overflow-hidden bg-gray-50 border border-b-gray-400 laptop-s:mt-10">
           <div class="pointer-events-none flex overflow-hidden">
-            <div class="animate-marquee flex min-w-full shrink-0 items-center gap-10 tablet:gap-24 tablet-m:gap-40 laptop-s:gap-52 p-3">
+            <div class="animate-marquee flex min-w-full shrink-0 items-center gap-10 tablet:gap-24 tablet-m:gap-40 laptop-s:gap-52 laptop-m:gap-60 p-3">
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dost}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={uc}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dict}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={neda}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md mr-3"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md mr-3 laptop-m:w-16"
                 src={dti}
                 alt=""
               />
             </div>
-            <div class="animate-marquee flex min-w-full shrink-0 items-center gap-10 tablet:gap-24 tablet-m:gap-40 laptop-s:gap-52 p-3">
+            <div class="animate-marquee flex min-w-full shrink-0 items-center gap-10 tablet:gap-24 tablet-m:gap-40 laptop-s:gap-52 laptop-m:gap-60 p-3">
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dost}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={uc}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dict}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={neda}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dti}
                 alt=""
               />
             </div>
-            <div class="phone:hidden tablet-m:flex animate-marquee flex min-w-full shrink-0 items-center gap-10 tablet:gap-24 tablet-m:gap-40 laptop-s:gap-52 p-3">
+            <div class="phone:hidden tablet-m:flex animate-marquee flex min-w-full shrink-0 items-center gap-10 tablet:gap-24 tablet-m:gap-40 laptop-s:gap-52 laptop-m:gap-60 p-3">
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dost}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={uc}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dict}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={neda}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dti}
                 alt=""
               />
             </div>
-            <div class="phone:hidden tablet-m:flex animate-marquee flex min-w-full shrink-0 items-center gap-10 tablet:gap-24 tablet-m:gap-40 laptop-s:gap-52 p-3">
+            <div class="phone:hidden tablet-m:flex animate-marquee flex min-w-full shrink-0 items-center gap-10 tablet:gap-24 tablet-m:gap-40 laptop-s:gap-52 laptop-m:gap-60 p-3">
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dost}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={uc}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dict}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={neda}
                 alt=""
               />
               <img
-                class="aspect-square max-w-12 rounded-md object-cover shadow-md"
+                class="aspect-square max-w-12 rounded-md object-cover shadow-md laptop-m:w-16"
                 src={dti}
                 alt=""
               />

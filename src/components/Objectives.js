@@ -11,7 +11,7 @@ function objective() {
       <div className="font-satoshi overflow-x-hidden">
         <div className="cont">
           <section className="mt-16 tablet:mt-12 text-center">
-            <h1 className="font-semibold text-md tablet:text-lg tablet-m:text-2xl laptop-s:text-3xl laptop-s:py-5">
+            <h1 className="font-semibold text-md tablet:text-lg tablet-m:text-2xl laptop-s:text-3xl laptop-m:text-[2.3rem] laptop-s:py-5">
               Objectives
             </h1>
           </section>
@@ -22,7 +22,7 @@ function objective() {
                 alt="1st-ico"
                 className="w-52 tablet-m:w-56 mx-auto"
               />
-              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] text-center font-regular mt-1 px-16">
+              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] laptop-m:text-[1.3rem] text-center font-regular mt-1 px-16">
                 Establishment of a 5-yr Regional Startup Development Plan and
                 Roadmaps
               </p>
@@ -33,7 +33,7 @@ function objective() {
                 alt="2nd-ico"
                 className="w-52 tablet-m:w-56 mx-auto"
               />
-              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] text-center font-regular mt-1 px-16">
+              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] laptop-m:text-[1.3rem] text-center font-regular mt-1 px-16">
                 Increasing Awareness about the Consortium
               </p>
             </div>
@@ -43,7 +43,7 @@ function objective() {
                 alt="3rd-ico"
                 className="w-52 tablet-m:w-56 mx-auto"
               />
-              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] text-center font-regular mt-1 px-16">
+              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] laptop-m:text-[1.3rem] text-center font-regular mt-1 px-16">
                 Upskilling and Upscaling Activities
               </p>
             </div>
@@ -53,7 +53,7 @@ function objective() {
                 alt="4th-ico"
                 className="w-52 tablet-m:w-56 mx-auto"
               />
-              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] text-center font-regular mt-1 px-16">
+              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] laptop-m:text-[1.3rem] text-center font-regular mt-1 px-16">
                 Establishment of Local Investor Network
               </p>
             </div>
@@ -63,7 +63,7 @@ function objective() {
                 alt="5th-ico"
                 className="w-52 tablet-m:w-56 mx-auto"
               />
-              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] text-center font-regular mt-1 px-16">
+              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] laptop-m:text-[1.3rem] text-center font-regular mt-1 px-16">
                 Cross Pollination Undertakings Among Stakeholders
               </p>
             </div>
@@ -73,7 +73,7 @@ function objective() {
                 alt="6th-ico"
                 className="w-52 tablet-m:w-56 mx-auto"
               />
-              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] text-center font-regular mt-1 px-16">
+              <p className="text-sm tablet-m:text-[0.8rem] laptop-s:text-[1rem] laptop-m:text-[1.3rem] text-center font-regular mt-1 px-16">
                 Activating startup activity hubs in lesser active provinces in
                 the regions
               </p>

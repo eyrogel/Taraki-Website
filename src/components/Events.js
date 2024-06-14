@@ -34,8 +34,11 @@ function Events() {
   return (
     <div>
       <div className="cont px-8">
-        <section className="mt-16 tablet:mt-12 text-center">
-          <h1 className="font-semibold text-md tablet:text-lg tablet-m:text-xl laptop-s:text-2xl">
+        <section className="mt-16 tablet:mt-12">
+        <h1 className="font-semibold text-2xl text-center mx-[22rem] phone:hidden tablet:hiddden tablet-m:hidden laptop-s:block laptop-m:text-[2.3rem]">
+            Empower Your Journey with Our Curated Knowledge Base
+          </h1>
+          <h1 className="font-semibold text-md tablet:text-lg tablet-m:text-xl laptop-s:text-xl laptop-m:text-2xl">
             Events
           </h1>
         </section>
@@ -46,7 +49,7 @@ function Events() {
                 className="bg-cover bg-center w-full h-full tablet:h-[15rem] tablet-m:h-[18rem] laptop-s:h-[25rem]"
                 style={{ backgroundImage: `url(${rc1})` }}
               ></div>
-              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl text-orange-600">
+              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl laptop-m:text-[1.3rem] text-orange-600">
                 Regional Caravan 1.1
               </h1>
             </div>
@@ -55,7 +58,7 @@ function Events() {
                 className="bg-cover bg-center w-full h-full tablet:h-[15rem] tablet-m:h-[18rem] laptop-s:h-[25rem]"
                 style={{ backgroundImage: `url(${rc2})` }}
               ></div>
-              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl text-orange-600">
+              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl laptop-m:text-[1.3rem] text-orange-600">
                 Regional Caravan 1.2
               </h1>
             </div>
@@ -64,7 +67,7 @@ function Events() {
                 className="bg-cover bg-center w-full h-full tablet:h-[15rem] tablet-m:h-[18rem] laptop-s:h-[25rem]"
                 style={{ backgroundImage: `url(${rc3})` }}
               ></div>
-              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl text-orange-600">
+              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl laptop-m:text-[1.3rem] text-orange-600">
                 Regional Caravan 1.3
               </h1>
             </div>
@@ -73,7 +76,7 @@ function Events() {
                 className="bg-cover bg-center w-full h-full tablet:h-[15rem] tablet-m:h-[18rem] laptop-s:h-[25rem]"
                 style={{ backgroundImage: `url(${rc4})` }}
               ></div>
-              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl text-orange-600">
+              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl laptop-m:text-[1.3rem] text-orange-600">
                 Regional Caravan 1.4
               </h1>
             </div>
@@ -82,7 +85,7 @@ function Events() {
                 className="bg-cover bg-center w-full h-full tablet:h-[15rem] tablet-m:h-[18rem] laptop-s:h-[25rem]"
                 style={{ backgroundImage: `url(${rc5})` }}
               ></div>
-              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl text-orange-600">
+              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl laptop-m:text-[1.3rem] text-orange-600">
                 Regional Caravan 1.5
               </h1>
             </div>
@@ -91,7 +94,7 @@ function Events() {
                 className="bg-cover bg-center w-full h-full tablet:h-[15rem] tablet-m:h-[18rem] laptop-s:h-[25rem]"
                 style={{ backgroundImage: `url(${rc6})` }}
               ></div>
-              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl text-orange-600">
+              <h1 className="text-center text-xs font-semibold px-10 laptop-s:text-xl laptop-m:text-[1.3rem] text-orange-600">
                 Regional Caravan 1.6
               </h1>
             </div>
