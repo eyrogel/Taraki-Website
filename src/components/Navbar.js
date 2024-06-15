@@ -31,7 +31,7 @@ function Navbar() {
             href="#home"
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
-            <img src={tarakiLogo} className="w-28 laptop-s:absolute laptop-s:left-2/4 laptop-s:-translate-x-1/2 laptop-m:w-32" alt="TARAKI LOGO HERE" />
+            <img src={tarakiLogo} className="w-28 laptop-s:absolute laptop-s:left-2/4 laptop-s:-translate-x-1/2 laptop-m:w-32 desktop-m:w-40" alt="TARAKI LOGO HERE" />
           </a>
           <div className="flex space-x-3 tablet-m:space-x-0 rtl:space-x-reverse">
             <button

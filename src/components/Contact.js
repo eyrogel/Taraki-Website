@@ -56,7 +56,7 @@ function contacts() {
             </ul>
           </div>
 
-          <section className="flex justify-evenly items-center px-14 tablet:px-56 tablet-m:px-[22rem] tablet:my-8 my-8 laptop-s:px-[30rem] laptop-m:px-[34rem]">
+          <section className="flex justify-evenly items-center px-14 tablet:px-56 tablet-m:px-[22rem] tablet:my-8 my-8 laptop-s:px-[30rem] laptop-m:px-[34rem] desktop-m:px-[48rem]">
             <svg
               className="tablet:w-8 tablet:h-8 laptop-m:w-10 laptop-m:h-10"
               xmlns="http://www.w3.org/2000/svg"

@@ -31,10 +31,10 @@ function TarakiTeam() {
       <div className="font-satoshi overflow-x-hidden">
         <div className="cont tablet:px-8">
           <section className="mt-16 tablet:mt-12 text-center">
-            <h1 className="font-semibold text-md tablet:text-lg tablet-m:text-2xl laptop-s:text-3xl laptop-m:text-[2.3rem]">
-              Taraki's Team
+            <h1 className="font-semibold text-md tablet:text-lg tablet-m:text-2xl laptop-s:text-3xl laptop-m:text-[2.3rem] desktop-m:text-[2.9rem] desktop-m:mb-7">
+              TARAKIs
             </h1>
-            <p className="font-light tablet:font-normal tablet:leading-6 text-sm tablet:text-md tablet-m:text-lg tablet-m:px-24 tablet:px-20 px-10 mt-5 tablet:mt-2 laptop-s:text-xl laptop-m:text-[1.4rem] laptop-s:mx-40">
+            <p className="font-light tablet:font-normal tablet:leading-6 text-sm tablet:text-md tablet-m:text-lg tablet-m:px-24 tablet:px-20 px-10 mt-5 tablet:mt-2 laptop-s:text-xl laptop-m:text-[1.4rem] desktop-m:text-[1.6rem] laptop-s:mx-40 laptop-m:mx-80">
               At TARAKI, our team is dedicated to driving technological
               innovation and fostering a collaborative environment for growth
               and advancement. Our experts bring diverse backgrounds and a
@@ -683,9 +683,10 @@ function TarakiTeam() {
                     Startup Community Enabler
                   </h1>
                   <p className="bg-white font-extralight text-[0.8rem] tablet:mt-2 tablet-m:mt-6 tablet:text-[1rem] tablet-m:text-[1.1rem] laptop-m:text-[1.4rem] leading-relaxed">
-                    Jezelle is a seasoned technologist with a passion for
+                    Jezze is a seasoned technologist with a passion for
                     cutting-edge innovations. He oversees all technology
                     initiatives, ensuring TARAKI remains at the forefront of
+                    industry advancements.
                   </p>
                   <section className="flex space-x-7 tablet:space-x-8 mt-1 tablet:mt-2 tablet-m:mt-6">
                     <svg

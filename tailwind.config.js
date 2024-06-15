@@ -7,7 +7,6 @@ module.exports = {
       animation: {
         marquee: "marquee 14s linear infinite",
         marquee2: "marquee2 14s linear infinite",
-        marquee3: "marquee2 14s linear infinite",
       },
       keyframes: {
         marquee: {
@@ -15,10 +14,6 @@ module.exports = {
           "100%": { transform: "translateX(-100%)" },
         },
         marquee2: {
-          "0%": { transform: "translateX(100%)" },
-          "100%": { transform: "translateX(0%)" },
-        },
-        marquee3: {
           "0%": { transform: "translateX(100%)" },
           "100%": { transform: "translateX(0%)" },
         },
@@ -34,6 +29,7 @@ module.exports = {
       },
       colors: {
         trkblack: "#151515",
+        faqtext: "#192733",
       },
     },
     fontFamily: {
